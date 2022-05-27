@@ -1,0 +1,70 @@
+File Manifest for ICPSR 37070
+
+Paluck, Elizabeth Levy, Hana R. Shepherd, and Peter Aronow. Changing
+Climates of Conflict: A Social Network Experiment in 56 Schools, New
+Jersey, 2012-2013. ICPSR37070-v2. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2020-09-14.
+http://doi.org/10.3886/ICPSR37070.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37070-descriptioncitation.pdf       -       -         -       2020-09-14  -
+
+    37070-related_literature.txt        -       -         -       daily       -
+
+    37070-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Changing Climates of Conflict: A Social Network Experiment in 56
+Schools, New Jersey, 2012-2013
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37070-0001-Codebook-ICPSR.pdf       -       -         -       2020-09-14  3e61c1bba3aab602f0ba960910c5dabd
+
+    37070-0001-Data.dta                 -       24,471    499     2020-09-14  96f7be1c7cfbc7b131b3ab1a4bd55376
+
+    37070-0001-Data.rda                 -       24,471    499     2020-09-14  73f1491734f683a52dc955a3f5016c83
+
+    37070-0001-Data.sav                 -       24,471    499     2020-09-14  c8cdece22ba7d6df02c33be5edef12ed
+
+    37070-0001-Data.stc                 -       24,471    499     2020-09-14  43a7adffe33c35b67f718d73c6dced56
+
+    37070-0001-Data.tsv                 -       24,471    499     2020-09-14  a6b8e658fb60820c5a5f040a0e5fbd35
+
+    37070-0001-Data.txt                 1789    24,471    499     2020-09-14  29df120b1ce0c8456c60822869530de3
+
+    37070-0001-Documentation-PI-Codebook.xls -       -         -       2019-08-28  ef37c9414382a792df7e95c485993be7
+
+    37070-0001-Questionnaire.pdf        -       -         -       2019-08-28  d7904e9a63867a12db355b4e25f544b6
+
+    37070-0001-Setup.dct                -       -         -       2020-09-14  863c8046c8388add9ae51d51d3095e00
+
+    37070-0001-Setup.do                 -       -         -       2020-09-14  8a8179e0c92d94b17fc5e43c9149fcb9
+
+    37070-0001-Setup.sas                -       -         -       2020-09-14  094fe01d79b06066c15ac0326328772b
+
+    37070-0001-Setup.sps                -       -         -       2020-09-14  64f2021621b8ba5794e0240864f33761
+
+    37070-0001-Supplemental_syntax.do   -       -         -       2020-09-14  e601dac3fd403f01a588dc8f225018fb
+
+    37070-0001-Supplemental_syntax.sas  -       -         -       2020-09-14  b3371c78e24f5b3531edb8da3dd13f29
+
+    37070-0001-Zipped_package-MAC-replication.zip -       -         -       2019-08-28  38cf7b4474cf4eae7684bd5f12476b55
+
+    37070-0001-Zipped_package-PC-replication.zip -       -         -       2019-08-28  77f1dc5a589496ee902d692aa1c5241a
+
+
+Version History
+
+2020-09-14 The study was updated to include 17 variables which were
+previously withheld from release: ST1W2, ST2W2, ST3W2, ST4W2, ST5W2,
+ST6WW2, ST7W2, ST8W2, ST9W2, ST10W2, CN1W2, CN2W2, CN3W2, CN4W2, CN5W2,
+BF1W2, and BF2W2.
